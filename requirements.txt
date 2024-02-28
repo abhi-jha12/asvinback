@@ -2,3 +2,4 @@ Flask
 google-cloud-storage
 python-dotenv
 Gunicorn
+flask-cors
